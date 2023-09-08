@@ -1,5 +1,5 @@
 .services{
-    background-image: url('../../images/dersert.jpg');
+    /* background-image: url('../../images/.jpg'); */
     background-position: center;
     background-size: cover;
     object-fit: cover;
@@ -8,7 +8,7 @@
     position: absolute;
     z-index: -1;
     background-repeat: no-repeat;
-    color: #fff;
+    color: #0d0c0c;
 }
 h1{
 display: flex;

@@ -23,7 +23,7 @@ function Mission() {
             <h3>Mission </h3>
             </span>
             <p>To deliver IT solution to the world With Over
-                 10 years of Industry experience and counting 
+               10 years of Industry experience and counting 
             </p>
             <p></p>
             
