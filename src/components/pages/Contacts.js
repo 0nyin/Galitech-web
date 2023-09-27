@@ -31,7 +31,7 @@ export default function Contacts() {
         <section id="section-wrapper">
         <div className="box-wrapper">
             <div className="info-wrap">
-                <h2 className="info-title">Contact Information</h2>
+                <h2 className="info-title">Contact Informationss</h2>
                 <h3 className="info-sub-title">Fill up the form and our Team will get back to you within 24 hours</h3>
                 <ul className="info-details">
                  
