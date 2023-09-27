@@ -66,7 +66,7 @@ function Navbar() {
                         // onMouseEnter={onMouseEnter}
                         // onMouseLeave={onMouseLeave}
                         >
-                        <Link to="/services" className='nav-links' onClick={closeMobileMenu}>
+                        <Link to="/#" className='nav-links' onClick={closeMobileMenu}>
                                  SERVICES 
                         {/* <ArrowDropDown className='shareIcon' /> */}
                         </Link>
